@@ -1,0 +1,6 @@
+export const POLICY_STATUSES = Object.freeze({
+  ACTIVE: "ACTIVE",
+  PENDING: "PENDING",
+  CANCELLED: "CANCELLED",
+  EXPIRED: "EXPIRED"
+});

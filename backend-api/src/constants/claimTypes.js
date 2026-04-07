@@ -1,0 +1,5 @@
+export const CLAIM_TYPES = Object.freeze({
+  LIFE: "LIFE",
+  AUTO_ACCIDENT: "AUTO_ACCIDENT",
+  HOME_DAMAGE: "HOME_DAMAGE"
+});

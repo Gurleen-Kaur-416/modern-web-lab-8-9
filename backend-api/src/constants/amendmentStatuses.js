@@ -1,0 +1,5 @@
+export const AMENDMENT_STATUSES = Object.freeze({
+  PENDING: "PENDING",
+  APPROVED: "APPROVED",
+  REJECTED: "REJECTED"
+});
